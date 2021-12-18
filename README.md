@@ -1,4 +1,4 @@
-## navigation
+## Navigation
 
 This is an code sample of navigating between different screens in Flutter. Pushed for future reference.
 
